@@ -13,16 +13,18 @@
 [![@darshancode2005's Holopin board](https://holopin.me/darshancode2005)](https://holopin.io/@darshancode2005)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarshanCode2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<!-- HERO CARD -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DarshanCode2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanCode2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarshanCode2005&theme=github_dark" />
 </p>
 
+<!-- STATS + LANGUAGE (STABLE) -->
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarshanCode2005&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarshanCode2005&theme=github_dark" />
+</p>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarshanCode2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
