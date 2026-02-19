@@ -19,12 +19,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarshanCode2005&theme=github_dark" />
 </p>
 
-<!-- STATS + LANGUAGE (STABLE) -->
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarshanCode2005&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarshanCode2005&theme=github_dark" />
-</p>
-
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
