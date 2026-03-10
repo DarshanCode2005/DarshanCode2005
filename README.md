@@ -12,7 +12,6 @@
 
 [![@darshancode2005's Holopin board](https://holopin.me/darshancode2005)](https://holopin.io/@darshancode2005)
 
-## GitHub Stats:
 
 <!-- HERO CARD -->
 <!-- <p align="center">
