@@ -15,9 +15,9 @@
 ## GitHub Stats:
 
 <!-- HERO CARD -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarshanCode2005&theme=github_dark" />
-</p>
+</p> -->
 
 
 ### Random Dev Quote
