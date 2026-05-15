@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>🎯 Currently learning Fullstack Development (Next.js) & App Development<br>🤖 Passionate about Machine Learning & Generative AI<br>⚡ Exploring Deep Learning, Computer Vision & NLP<br>🛠️ Building AI-powered tools & productivity apps<br>💡 Love working on hackathons & innovative projects<br>📚 Always learning & experimenting with new tech
+🚀 About Me<br> Currently learning Fullstack Development (Next.js) & App Development<br> Passionate about Machine Learning & Generative AI<br> Exploring Deep Learning, Computer Vision & NLP<br> Building AI-powered tools & productivity apps<br> Love working on hackathons & innovative projects<br> Always learning & experimenting with new tech
 
 
 ## 🌐 Socials:
