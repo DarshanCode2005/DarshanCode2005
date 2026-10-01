@@ -1,5 +1,9 @@
 # About Me:
-Currently learning Fullstack Development (Next.js) & App Development<br> Passionate about Machine Learning & Generative AI<br> Exploring Deep Learning, Computer Vision & NLP<br> Building AI-powered tools & productivity apps<br> Love working on hackathons & innovative projects<br> Always learning & experimenting with new tech
+Interested in **systems engineering, Linux, Nix & infrastructure**<br>
+Exploring **distributed systems, networking & low-level programming**<br>
+Building things with **C/C++, Rust, Go & Python**<br>
+Tinkering with **DevOps, self-hosting, containers & automation**<br>
+Always **hacking, breaking things & learning how they work**
 
 
 ## Socials:
