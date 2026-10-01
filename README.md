@@ -1,11 +1,11 @@
-# 💫 About Me:
-🚀 About Me<br> Currently learning Fullstack Development (Next.js) & App Development<br> Passionate about Machine Learning & Generative AI<br> Exploring Deep Learning, Computer Vision & NLP<br> Building AI-powered tools & productivity apps<br> Love working on hackathons & innovative projects<br> Always learning & experimenting with new tech
+# About Me:
+Currently learning Fullstack Development (Next.js) & App Development<br> Passionate about Machine Learning & Generative AI<br> Exploring Deep Learning, Computer Vision & NLP<br> Building AI-powered tools & productivity apps<br> Love working on hackathons & innovative projects<br> Always learning & experimenting with new tech
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/darshansynergy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-thakare-5a5b42171/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@darshanthakare05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanthakare05@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
